@@ -3,4 +3,4 @@ import ui from './ui/index.js';
 
 ui();
 router();
-console.log("Testingdd Husky and lint-staged");
+console.log("Testinddgdd Husky and lint-staged");
