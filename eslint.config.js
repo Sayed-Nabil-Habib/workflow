@@ -3,18 +3,18 @@ const config = [
   {
     languageOptions: {
       globals: {
-        // Define your globals here
+      
         browser: true,
         node: true,
-        jest: true, // Enables Jest global variables
+        jest: true, 
       },
       parserOptions: {
         ecmaVersion: 12,
-        sourceType: 'module', // Set to 'module' if using ES modules
+        sourceType: 'module', 
       },
     },
     rules: {
-      // Your custom rules here
+     
     },
   },
 ];
